@@ -5,6 +5,7 @@ YOLO11n + TensorRT C++ 本地摄像头无人机检测
 
 <img width="2552" height="1596" alt="162f4c77f6233c3de075a69a7420817b" src="https://github.com/user-attachments/assets/0af293d5-577a-495d-8e0e-515fcb9a0070" />
 
+<img width="2560" height="1504" alt="3e4c6617a5ccd613254f2c5010bb8efa" src="https://github.com/user-attachments/assets/1726384d-a85e-40c3-8745-a2418dd8edbb" />
 
 ## 目录
 
